@@ -35,7 +35,6 @@ html, body {
 }
 #app {
   height: 100%;
-  text-align: center;
   color: #fff;
   background-color: rgb(73, 73, 73);
 }
